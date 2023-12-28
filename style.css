@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+html, body{
+    height: 100%;
+    background-color: #ffffff;
+}
+
+nav{
+    background-color: #29ba9b;
+    height: 90px;
+    width: 100%;
+}
