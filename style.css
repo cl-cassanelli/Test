@@ -5,11 +5,17 @@
 
 html, body{
     height: 100%;
-    background-color: #ffffff;
+    background-color: #29ba9b;
 }
 
 nav{
     background-color: #29ba9b;
     height: 90px;
+    width: 100%;
+}
+
+main{
+    background-color: #ffff;
+    height: 100%;
     width: 100%;
 }
